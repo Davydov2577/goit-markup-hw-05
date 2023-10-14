@@ -587,7 +587,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 16px;
+  /* gap: 16px; */
   border-radius: 4px;
   background: #4D5AE5;
   cursor: pointer;
@@ -606,6 +606,7 @@ img {
   justify-content: center;
   align-items: center;
   fill: #FFFFFF;
+  margin-left: 16px;
 }
 
 /* ============ */
